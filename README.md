@@ -85,8 +85,6 @@ employee-management-system/
 ├── utils.py                # Helper functions for input validation, logging, etc.
 └── README.md               # Project documentation
 
-# Employee Salary Calculation and Management
-
 ## Modules
 
 - **`employee.py`**: Contains the `Employee` class with attributes for name, ID, hourly wage, bonuses, and methods for salary calculation, adding bonuses, and deductions.
