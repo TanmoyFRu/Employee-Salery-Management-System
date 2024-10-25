@@ -44,16 +44,17 @@ The application follows an object-oriented approach with separate classes for em
    pip install -r requirements.txt
 3. **Initialize the Database: Run the database setup script to create necessary tables**:
    python setup_database.py
-   ### Usage
-i. **Run the Application**:
+## Usage
+1. **Run the Application**:
 python main.py
-ii. **Menu Options**:
+
+3. **Menu Options**:
 
 Add Employee: Add new employees, specifying their role as Manager, Developer, or generic Employee.
 Calculate Salary: Input hours worked, bonuses, and deductions to calculate the monthly salary.
 Generate Payslip: Generate a detailed payslip with a breakdown of salary components.
 View Team Salary: For managers, view the total salary expense of team members.
-iii. Input Examples: When adding an employee, the system will prompt for:
+3. Input Examples: When adding an employee, the system will prompt for:
 
 Name, Employee ID, Role (Manager/Developer), Hourly Wage, Hours Worked, Bonuses, and Deductions.
 
