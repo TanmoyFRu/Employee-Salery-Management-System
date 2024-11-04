@@ -115,8 +115,6 @@ Run `setup_database.py` to initialize the database and create necessary indexes 
 - **GUI Integration**: Implement a graphical interface for better user experience.
 - **Email Payslip**: Enable payslip generation and emailing directly from the application.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 
 
